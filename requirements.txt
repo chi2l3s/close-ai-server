@@ -2,4 +2,3 @@ fastapi
 uvicorn
 flask-cors
 g4f
-curl_cffi
